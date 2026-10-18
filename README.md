@@ -2,7 +2,7 @@
 
 # Maha Hosni · Data analyste junior
 
-Data analyste junior à l'aise avec SQL et Power BI, j'aime nettoyer, explorer et mettre en forme des données pour qu'elles racontent quelque chose d'utile. Je recherche [un poste / une alternance / un stage] en analyse de données.
+Data analyste junior à l'aise avec SQL et Power BI, j'aime nettoyer, explorer et mettre en forme des données pour qu'elles racontent quelque chose d'utile. Je recherche un CDI en analyse de données.
 
 ## Compétences
 **Bases de données :** SQL · **BI :** Power BI, DAX · **Outils :** Git / GitHub
