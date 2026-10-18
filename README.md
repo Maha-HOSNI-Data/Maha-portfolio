@@ -5,7 +5,7 @@
 Data analyste junior à l'aise avec SQL et Power BI, j'aime nettoyer, explorer et mettre en forme des données pour qu'elles racontent quelque chose d'utile. Je recherche un CDI en analyse de données.
 
 ## Compétences
-**Bases de données :** SQL · **BI :** Power BI, DAX · **Outils :** Git / GitHub
+**Bases de données :** SQL Server · **BI :** Power BI, DAX · **Outils :** Git / GitHub
 
 ## Projet
 ### [Vendre plus, gagner moins ? Impact des remises sur la rentabilité](https://github.com/Maha-portfolio/superstore-sql-powerbi-project)
