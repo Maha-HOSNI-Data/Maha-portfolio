@@ -2,7 +2,7 @@
 
 # Maha Hosni · Data analyste junior
 
-Data analyste junior à l'aise avec SQL et Power BI, j'aime nettoyer, explorer et mettre en forme des données pour qu'elles racontent quelque chose d'utile. Je recherche un CDI en analyse de données.
+Je suis Data Analyst junior et je souhaite aider les entreprises à mieux comprendre leurs données afin de répondre à leurs enjeux et de prendre des décisions éclairées. J’utilise SQL et Power BI dans le cadre de projets concrets pour analyser les données, identifier des tendances et présenter des résultats pertinents pour l’entreprise. Curieuse et motivée, je m’investis dans le développement de mes compétences et cherche à apporter de la valeur grâce à l’analyse de données. Je recherche un CDI en analyse de données.
 
 ## Compétences
 **Bases de données :** SQL Server · **BI :** Power BI, DAX · **Outils :** Git / GitHub
